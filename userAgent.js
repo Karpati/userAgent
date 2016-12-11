@@ -1,4 +1,4 @@
-//Github First
+//Második
 function userAgent(userAgent, min_ie, min_edge, min_chrome, min_firefox, min_fxios, min_opera, min_safari) {	
 
      var return_version;
